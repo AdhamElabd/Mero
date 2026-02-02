@@ -5,7 +5,7 @@ let w = (c.width = window.innerWidth),
 (hh = h / 2),
   (opts = {
     // change the text in here //
-    strings:["Wishing You", "a Wonderful", "Birthday", "Ahmed!"]
+    strings:["الف الف مبرووووك", "ومن نجاح لنجاح كداا ياربب", "وتفضلي اشطر واحدة كداا", "😂❤️❤️🎀"]
 ,
     charSize: 30,
     charSpacing: 30,
@@ -400,3 +400,4 @@ window.addEventListener("resize", function () {
 
   ctx.font = opts.charSize + "px Verdana";
 });
+
